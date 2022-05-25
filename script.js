@@ -26,5 +26,3 @@ buttons.map(button => {
         }
     })
 })
-
-
